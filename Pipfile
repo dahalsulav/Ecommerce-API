@@ -32,6 +32,7 @@ virtualenv-clone = "==0.5.7"
 zipp = "==3.7.0"
 PyYAML = "==6.0"
 django = "*"
+djangorestframework = "*"
 
 [dev-packages]
 
